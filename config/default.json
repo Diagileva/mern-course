@@ -1,0 +1,6 @@
+{
+    "port": "5000",
+    "jwtSecret": "dasha mern",
+    "mongoUri": "mongodb+srv://dariadiagileva:175571Dd@cluster0.sxrkhl1.mongodb.net/?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
